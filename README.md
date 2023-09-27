@@ -8,7 +8,7 @@
 
 - 📫 How to reach me   **izzatillotilavoldiyev5@gmail.com**
 
-- 📄 Know about my experiences   [resume]([https://github.com/izzatilloTilavoldiyev](https://drive.google.com/file/d/1XADpwynbgaQgyK5F87rGkrWgVHAElok1/view?usp=sharing))
+- 📄 Know about my experiences   [resume](https://github.com/izzatilloTilavoldiyev](https://drive.google.com/file/d/1XADpwynbgaQgyK5F87rGkrWgVHAElok1/view?usp=sharing)
 
 - <h3 align="left">Connect with me:    [+998 93 830 56 36]  </h3>
 <p align="left">
