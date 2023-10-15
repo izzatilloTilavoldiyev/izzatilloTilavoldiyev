@@ -115,13 +115,13 @@
 
 ### :fire: My Github Stats :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elshod1018&stroke=EB5454" alt="Izzatullo Tilavoldiyev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatilloTilavoldiyev&stroke=EB5454" alt="Izzatullo Tilavoldiyev" /></p>
 
 
    <p align="center">
           <a href="https://github.com/izzatilloTilavoldiyev/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=elshod1018&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=elshod1018&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=izzatilloTilavoldiyev&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=izzatilloTilavoldiyev&theme=gruvbox&hide_border=true" />
           </a>
        </p>
 
